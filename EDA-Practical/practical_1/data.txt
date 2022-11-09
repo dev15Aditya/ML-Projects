@@ -1,0 +1,6 @@
+rollno ; name ; age
+1 ; Aditya01 ; 20
+2 ; Aditya02 ; 40
+3 ; Aditya03 ; 60
+4 ; Aditya04 ; 80
+5 ; Aditya05 ; 100

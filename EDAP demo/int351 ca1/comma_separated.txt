@@ -1,0 +1,6 @@
+id,sex,age
+101,Male,20
+102,Female,22
+103,Male,19
+104,Male,21
+105,Male,20
